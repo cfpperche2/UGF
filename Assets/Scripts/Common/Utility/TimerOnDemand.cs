@@ -102,7 +102,7 @@ public class TimerOnDemand : ScriptableObject
 		tmp=(int)aHour;
 		hours=tmp.ToString();
 		if(hours.Length<2)
-			hours="0"+hour;
+			hours="0"+hours;
 		
 		tmp=(int)aMillis;
 		mills=tmp.ToString();
