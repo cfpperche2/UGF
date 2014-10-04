@@ -48,6 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Common\Input\KeyboardInput.cs" />
      <Compile Include="Assets\Scripts\Common\SceneManager.cs" />
+     <Compile Include="Assets\Scripts\Common\Utility\TimerConstantly.cs" />
+     <Compile Include="Assets\Scripts\Common\Utility\TimerOnDemand.cs" />
      <Compile Include="Assets\Scripts\Core\BaseGameController.cs" />
      <Compile Include="Assets\Scripts\Core\BaseInputController.cs" />
      <Compile Include="Assets\Scripts\Core\BasePlayerManager.cs" />
