@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\Common\Spawn\PathSpawner.cs" />
      <Compile Include="Assets\Scripts\Common\Spawn\SpawnController.cs" />
      <Compile Include="Assets\Scripts\Common\Spawn\TriggerSpawner.cs" />
+     <Compile Include="Assets\Scripts\Common\Utility\PretendFriction.cs" />
      <Compile Include="Assets\Scripts\Common\Utility\SetGravity.cs" />
      <Compile Include="Assets\Scripts\Common\Utility\TimerConstantly.cs" />
      <Compile Include="Assets\Scripts\Common\Utility\TimerOnDemand.cs" />
