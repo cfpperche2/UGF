@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Common\Camera\ThirdPersonCamera.cs" />
      <Compile Include="Assets\Scripts\Common\Camera\TopDownCamera.cs" />
+     <Compile Include="Assets\Scripts\Common\GameControl\SceneManager.cs" />
      <Compile Include="Assets\Scripts\Common\Input\FourWayFire1Input.cs" />
      <Compile Include="Assets\Scripts\Common\Input\KeyboardInput.cs" />
      <Compile Include="Assets\Scripts\Common\Input\MouseInput.cs" />
