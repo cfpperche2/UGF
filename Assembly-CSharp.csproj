@@ -46,10 +46,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Common\Camera\BaseCamera.cs" />
      <Compile Include="Assets\Scripts\Common\Camera\ThirdPersonCamera.cs" />
      <Compile Include="Assets\Scripts\Common\Camera\TopDownCamera.cs" />
+     <Compile Include="Assets\Scripts\Common\Input\FourWayFire1Input.cs" />
      <Compile Include="Assets\Scripts\Common\Input\KeyboardInput.cs" />
+     <Compile Include="Assets\Scripts\Common\Input\MouseInput.cs" />
+     <Compile Include="Assets\Scripts\Common\Input\TwoWayFire1Input.cs" />
      <Compile Include="Assets\Scripts\Common\SceneManager.cs" />
      <Compile Include="Assets\Scripts\Common\Spawn\PathSpawner.cs" />
      <Compile Include="Assets\Scripts\Common\Spawn\SpawnController.cs" />
@@ -58,6 +60,7 @@
      <Compile Include="Assets\Scripts\Common\Utility\SetGravity.cs" />
      <Compile Include="Assets\Scripts\Common\Utility\TimerConstantly.cs" />
      <Compile Include="Assets\Scripts\Common\Utility\TimerOnDemand.cs" />
+     <Compile Include="Assets\Scripts\Core\BaseCameraController.cs" />
      <Compile Include="Assets\Scripts\Core\BaseGameController.cs" />
      <Compile Include="Assets\Scripts\Core\BaseInputController.cs" />
      <Compile Include="Assets\Scripts\Core\BasePlayerManager.cs" />
