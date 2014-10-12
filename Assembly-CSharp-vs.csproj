@@ -56,7 +56,8 @@
      <Compile Include="Assets\Scripts\Common\Spawn\PathSpawner.cs" />
      <Compile Include="Assets\Scripts\Common\Spawn\SpawnController.cs" />
      <Compile Include="Assets\Scripts\Common\Spawn\TriggerSpawner.cs" />
-     <Compile Include="Assets\Scripts\Common\Utility\AutomaticDestroyObject.cs" />
+     <Compile Include="Assets\Scripts\Common\Utility\AutoDestroyObject.cs" />
+     <Compile Include="Assets\Scripts\Common\Utility\AutoSpinObject.cs" />
      <Compile Include="Assets\Scripts\Common\Utility\PretendFriction.cs" />
      <Compile Include="Assets\Scripts\Common\Utility\SetGravity.cs" />
      <Compile Include="Assets\Scripts\Common\Utility\TimerConstantly.cs" />

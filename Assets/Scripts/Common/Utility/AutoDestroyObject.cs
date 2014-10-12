@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class AutomaticDestroyObject : MonoBehaviour 
+public class AutoDestroyObject : MonoBehaviour 
 {
 	public float timeBeforeObjectDestroys;
 	
