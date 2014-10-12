@@ -46,6 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Common\Camera\BaseCamera.cs" />
+     <Compile Include="Assets\Scripts\Common\Camera\ThirdPersonCamera.cs" />
+     <Compile Include="Assets\Scripts\Common\Camera\TopDownCamera.cs" />
      <Compile Include="Assets\Scripts\Common\Input\KeyboardInput.cs" />
      <Compile Include="Assets\Scripts\Common\SceneManager.cs" />
      <Compile Include="Assets\Scripts\Common\Spawn\PathSpawner.cs" />
